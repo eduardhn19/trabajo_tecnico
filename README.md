@@ -1,5 +1,7 @@
 
-# AUTOMATIZACIÓN CALCULO DE TASAS DE PARTICIPACIÓN Y RECHAZO, CIEP-UCR [APLICACIÓN SHINY (R)]
+# AUTOMATIZACIÓN CALCULO DE INDICADORES CLAVE
+
+## Contexto de proyecto
 
 Al incorporarme a un proyecto hace algunos años, noté que ciertos procesos clave podían mejorar significativamente. 
 El cálculo de indicadores esenciales tomaba varios días y exigía una dedicación considerable.
@@ -16,3 +18,16 @@ Porque no basta con calcular y simplificar procesos: la comunicación clara tamb
 
 Aunque su implementación definitiva aún está a la espera de autorización formal, el solo hecho de haberlo construido y comprobar su potencial me confirma que el tiempo
 invertido valió la pena. Cuando se trata de aportar, no siempre se necesita una instrucción previa, solo iniciativa y compromiso.
+
+## Disclaimer 
+
+Por motivos de privacidad respecto a los datos del lugar de trabajo me encuentro en proceso de anonimizar los datos para compartir. Mi intención es subir el proyecto completo en el momento en que se encuentre listo. 
+
+## Contacto
+
+Eduard Hernández Nájera
+Politólogo | Analista de Datos
+San Pedro, Montes de Oca – Costa Rica
+eduardhn19@gmail.com | +506 6366 2256
+
+
