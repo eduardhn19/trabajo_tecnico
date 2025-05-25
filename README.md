@@ -1,5 +1,5 @@
 
-# AUTOMATIZACIÓN CALCULO DE TASAS DE PARTICIPACIÓN Y RECHAZO, CIEP-UCR
+# AUTOMATIZACIÓN CALCULO DE TASAS DE PARTICIPACIÓN Y RECHAZO, CIEP-UCR [APLICACIÓN SHINY (R)]
 
 Al incorporarme a un proyecto hace algunos años, noté que ciertos procesos clave podían mejorar significativamente. 
 El cálculo de indicadores esenciales tomaba varios días y exigía una dedicación considerable.
