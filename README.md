@@ -26,8 +26,11 @@ Por motivos de privacidad respecto a los datos del lugar de trabajo me encuentro
 ## Contacto
 
 Eduard Hernández Nájera
+
 Politólogo | Analista de Datos
+
 San Pedro, Montes de Oca – Costa Rica
+
 eduardhn19@gmail.com | +506 6366 2256
 
 
